@@ -1,4 +1,4 @@
-# ui_challenge_2
+# Program to demonstrate the working of ClipShadowPath with ClipPath widget
 
 A new Flutter project.
 
